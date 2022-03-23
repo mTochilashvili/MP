@@ -1,0 +1,41 @@
+using System;
+
+namespace MP1._2
+{
+    class BaseClass
+    {
+        public virtual void Method()
+        {
+            Console.WriteLine("Method from BaseClass");
+        }
+    }
+
+    class DerivedClass : BaseClass
+    {
+        // Переопределение метода базового класса
+
+        public override void Method()
+        {
+            Console.WriteLine("Method from DerivedClass");
+        }
+    }
+    class Program
+    {
+        static void Main()
+        {
+            DerivedClass instance = new DerivedClass();
+            instance.Method();
+
+            //UpCast
+            BaseClass instanceUP = instance;
+            instanceUP.Method();
+
+            //DownCast
+            DerivedClass instanceDown = (DerivedClass)instanceUP;
+            instanceDown.Method();
+
+            //Delay
+            Console.ReadKey();
+        }
+    }
+}
