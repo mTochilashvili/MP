@@ -9,6 +9,8 @@
 
 Нажав на надпись <b><i>Choose month</i></b> под надписью <b><i>Mood Tracker</i></b> пользователь может выбрать конкретный месяц, который в последующем отобразится на главном экране вместо текущего.
 
+<img src="https://github.com/mTochilashvili/MP/blob/main/Second.jpg">
+
 Справа в кругу мы видим текущий день, под ним варианты настроения доступные для выбора.
 А ещё ниже пользователь может оставить какой-либо комментарий.
 
@@ -21,4 +23,3 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Спасибо+за+внимание!!!" alt="Typing SVG" /></a>
 <img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
-
