@@ -15,7 +15,5 @@
 
 <i>При желании пользователь может изменить месяц, чтобы посмотреть график за интересующий период.</i>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+you+for+your+attention!!!" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Спасибо+за+внимание!!!" alt="Typing SVG" /></a>
 <img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
