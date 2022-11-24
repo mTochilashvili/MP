@@ -15,5 +15,5 @@
 
 <i>При желании пользователь может изменить месяц, чтобы посмотреть график за интересующий период.</i>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
