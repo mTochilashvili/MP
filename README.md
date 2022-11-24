@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=mTochilashvili)
 
 <h1 align="center">Руководство по использованию MOOD TRACKER  </h1>
 
@@ -16,4 +16,4 @@
 При желании пользователь может изменить месяц, чтобы посмотреть график за интересующий период.
 
 
-![](https://komarev.com/ghpvc/?username=mTochilashvili)
+
