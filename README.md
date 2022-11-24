@@ -15,5 +15,5 @@
 
 <i>При желании пользователь может изменить месяц, чтобы посмотреть график за интересующий период.</i>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Спасибо за внимание!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thanks!!!)](https://git.io/typing-svg)
 
